@@ -1,3 +1,3 @@
 # HelloWorld
 New Repository
-I overwrite the content.
+The conflict was resolved.
