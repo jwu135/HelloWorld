@@ -1,3 +1,3 @@
 # HelloWorld
 New Repository
-I add some different content.
+The conflict was resolved.
